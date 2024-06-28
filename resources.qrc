@@ -1,0 +1,14 @@
+<RCC>
+  <qresource>
+    <file>icon/logo.png</file>
+    <file>icon/dashboard.png</file>
+    <file>icon/database.png</file>
+    <file>icon/document.png</file>
+    <file>icon/exit.png</file>
+    <file>icon/filter.png</file>
+    <file>icon/hot.png</file>
+    <file>icon/messager.png</file>
+    <file>icon/setting.png</file>
+    <file>icon/title.png</file>
+  </qresource>
+</RCC>
